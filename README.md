@@ -4,6 +4,8 @@
 ### Overview
 This repository contains the code for a disk shooting robot. The robot is designed to move, aim, and launch disks using a remote control interface. It integrates multiple components, including motors, servo control, an infrared (IR) receiver for remote control input, and a liquid crystal display (LCD) for visual feedback. The robot can move forward, backward, and rotate, and the launcher mechanism allows for variable speed control.
 
+This robot served as our entry at the Bangladesh Robotics Olympiad 2024.
+
 ### Features
 - **Movement Control**: The robot’s wheels can be controlled to move forward, backward, and turn left or right.
 - **Launcher Mechanism**: A motorized disk launcher that can be activated and deactivated, with adjustable speed via the remote control.
@@ -77,5 +79,5 @@ The robot is controlled using an IR remote, with each button corresponding to a 
 We would like to thank our instructor and mentors for their guidance and support throughout this project.
 
 ### License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
