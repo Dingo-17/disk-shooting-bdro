@@ -1,5 +1,5 @@
 # Disk Shooting Robot
-## Team Members: Diganto Haque, Soumik Sen
+## Team Members: Diganto Haque, Soumik Sen, Karib Kazi 
 
 ### Overview
 This repository contains the code for a disk shooting robot. The robot is designed to move, aim, and launch disks using a remote control interface. It integrates multiple components, including motors, servo control, an infrared (IR) receiver for remote control input, and a liquid crystal display (LCD) for visual feedback. The robot can move forward, backward, and rotate, and the launcher mechanism allows for variable speed control.
